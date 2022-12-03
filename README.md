@@ -16,4 +16,4 @@ Need to extensions tools
   d) @apply hidden; -> ?
 
 5. package.json
-  a) add "scripts" .....customazing
+  a) add "scripts" ...customazing
